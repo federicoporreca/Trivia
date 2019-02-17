@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Trivia</string>
+    <string name="main_new_game">New game</string>
+    <string name="game_error">"Connection error"</string>
+    <string name="game_next_question">"Next question"</string>
+    <string name="game_back_to_menu">"Back to menu"</string>
+</resources>
